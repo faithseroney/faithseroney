@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @faithseroney
 - 👀 I’m interested in DATA
-- 🌱 I’m currently learning SQL, BI tools
+- 🌱 I’m proficient in SQL, BI tools
 - 💞️ I’m looking to collaborate on SQL
 - 📫 How to reach me seroney.faith@gmail.com
 
