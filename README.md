@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @faithseroney
-- 👀 I’m interested in DATA
-- 🌱 I’m proficient in SQL, BI tools
-- 💞️ I’m looking to collaborate on SQL
+- 👀 I’m a manufacturing analyst
 - 📫 How to reach me seroney.faith@gmail.com
 
 <!---
